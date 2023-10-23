@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /index.php?s=/admin*
+Disallow: /index.php?s=/install*
+Disallow: /index.php?s=/api*
+Disallow: /admin*
+Disallow: /api*
+Disallow: /install*
+Disallow: /*respond.php
+Disallow: /*notify.php
+Disallow: /public*
+Disallow: YulinSec{RobotsTx7_Human_dont_READ}
